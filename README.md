@@ -29,7 +29,7 @@ heroku/python
 ⚠️ AFTER FORK EDIT DEPLOY BUTTON REPLACE WITH YOUR REPO LINK ⚙️
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/rockstarcuba/Bot-deUlcv-version-Pro)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rockstarcuba/Bot-deUlcv-version-Pro) 
 
 ## BOT COMMANDS
 
